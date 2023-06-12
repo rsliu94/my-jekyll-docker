@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll, Mo Salah!"
 date:   2023-06-12 19:12:52 +0000
 categories: jekyll update
 ---
